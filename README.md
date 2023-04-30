@@ -1,5 +1,9 @@
 # **Image Search Engine using Python and Jupyter**
 
+**EDIT: Error with keras package import in the jupyter-notebook file**  
+---
+---
+
 This project is a result of a course on Deep Learning and Convoluted Nueral Networks (CNN), where we build an image search engine using open source Python and Jupyter framework. This project includes a Jupyter notebook that uses VGG models of the CNN architecture to extract image embeddings and text embeddings and a Flask web application that allows users to search for specific images.
 
 ## Features
